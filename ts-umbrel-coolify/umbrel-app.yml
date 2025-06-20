@@ -19,11 +19,8 @@ submission: https://github.com/coollabsio/coolify
 repo: https://github.com/coollabsio/coolify
 support: https://github.com/coollabsio/coolify/issues
 gallery:
-  - https://github.com/tveshaj/ts-umbrel/blob/master/ts-umbrel-coolify/coolify-1.jpeg
-  - https://github.com/tveshaj/ts-umbrel/blob/master/ts-umbrel-coolify/coolify-2.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://raw.githubusercontent.com/tveshaj/ts-umbrel/refs/heads/master/ts-umbrel-coolify/coolify-1.jpeg
+  - https://raw.githubusercontent.com/tveshaj/ts-umbrel/refs/heads/master/ts-umbrel-coolify/coolify-2.jpeg
 dependencies: []
 path: ""
 defaultUsername: ""
