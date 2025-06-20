@@ -4,7 +4,7 @@ name: Coolify
 tagline: An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 icon: https://coolify.io/docs/coolify-logo-transparent.png
 category: Development
-version: "1.0.0"
+version: "4.0.0"
 port: 8000
 description: >-
   Coolify is an open-source & self-hostable alternative to Heroku / Netlify / Vercel / etc.
@@ -15,7 +15,6 @@ description: >-
   For more information, take a look at our landing page at coolify.io.
 developer: Coolify
 website: https://coolify.io
-submitter: CoolLabs
 submission: https://github.com/coollabsio/coolify
 repo: https://github.com/coollabsio/coolify
 support: https://github.com/coollabsio/coolify/issues
@@ -23,8 +22,6 @@ gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
-releaseNotes: >-
-  Add what's new in the latest version of your app here.
 dependencies: []
 path: ""
 defaultUsername: ""
