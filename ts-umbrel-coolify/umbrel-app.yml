@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: ts-coolify
+id: ts-umbrel-coolify
 name: Coolify
 tagline: An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 icon: https://coolify.io/docs/coolify-logo-transparent.png
